@@ -23,8 +23,3 @@ pipeline {
         }
     }
 }
-<<<<<<< HEAD
-[
-=======
-]
->>>>>>> refs/remotes/origin/master
